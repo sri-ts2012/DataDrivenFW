@@ -1,0 +1,2 @@
+INFO    2021-03-09 10:51:16,511 [main] com.w2a.base.TestBase  - config file loaded
+INFO    2021-03-09 10:51:16,513 [main] com.w2a.base.TestBase  - or file loaded
